@@ -8,9 +8,12 @@ Features:
 ✅ Retrieve all stored images along with their owners
 ✅ Built with Solidity, Hardhat, and Ethers.js
 
-First of all after downloading the git,run this command in cmd on the same folder as path
+First of all,run this on cmd on the same folder to install all dependencies.
 
-Run `npm install` to install dependencies.
+```bash
+npm install
 
 
 🚀 Future improvements: Frontend integration, MetaMask authentication, and deployment on a public testnet!
+
+
