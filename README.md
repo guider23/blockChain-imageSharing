@@ -10,7 +10,7 @@ Features:
 
 First of all after downloading the git,run this command in cmd on the same folder as path
 
-npm install 
---run this on cmd
+Run `npm install` to install dependencies.
+
 
 🚀 Future improvements: Frontend integration, MetaMask authentication, and deployment on a public testnet!
