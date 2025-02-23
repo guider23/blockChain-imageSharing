@@ -12,7 +12,7 @@ First of all,run this on cmd on the same folder to install all dependencies.
 
 ```bash
 npm install
-
+```
 
 🚀 Future improvements: Frontend integration, MetaMask authentication, and deployment on a public testnet!
 
