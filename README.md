@@ -16,4 +16,4 @@ npm install
 
 🚀 Future improvements: Frontend integration, MetaMask authentication, and deployment on a public testnet!
 
-[Detailed Reading On Mediium](https://medium.com/@kaniskaraj/building-a-decentralized-image-sharing-system-with-ipfs-and-blockchain-5a6bc3ef4493)
+[Detailed Reading On Medium](https://medium.com/@kaniskaraj/building-a-decentralized-image-sharing-system-with-ipfs-and-blockchain-5a6bc3ef4493)
